@@ -1,11 +1,13 @@
 ### Hi 👋 
 
-This is my treasure! 
+This is my treasure!
 
 Stack:
 
 - Java
+- JS
 - Spring
+- Hibernate
 - PostgreSQL
 
 <!--
