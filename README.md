@@ -2,7 +2,7 @@
 
 This is my treasure!
 
-Stack:
+Stack which i use:
 
 - Java
 - JS
