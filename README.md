@@ -1,5 +1,12 @@
-### Hi 👋 I'm a future java developer, currently learning java, spring.
-Looking for job!
+### Hi 👋 
+
+This is my treasure! 
+
+Stack:
+
+- Java
+- Spring
+- PostgreSQL
 
 <!--
 **nxbeyxnd/nxbeyxnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
