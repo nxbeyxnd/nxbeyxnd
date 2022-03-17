@@ -5,7 +5,6 @@ This is my treasure!
 Stack which i use:
 
 - Java
-- JS
 - Spring
 - Hibernate
 - PostgreSQL
