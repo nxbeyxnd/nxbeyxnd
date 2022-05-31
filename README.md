@@ -8,6 +8,9 @@ Stack which i use:
 - Spring
 - Hibernate
 - PostgreSQL
+- Flyway migration
+- SOLID Principles
+- OOP
 
 <!--
 **nxbeyxnd/nxbeyxnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
