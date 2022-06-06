@@ -1,6 +1,5 @@
-### Hi 👋 
-
-This is my treasure!
+<h1 align="center">Hi there, I'm Daniil</h1>
+<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 
 - [🔭 I’m currently working on] [(https://github.com/nxbeyxnd/PersonalSite)]
 
