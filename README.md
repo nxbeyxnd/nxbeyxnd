@@ -2,8 +2,8 @@
 
 This is my treasure!
 
-- [🔭 I’m currently working on]([https://www.google.com](https://github.com/nxbeyxnd/PersonalSite))
-- [Java Dev Journal]:(https://github.com/nxbeyxnd/PersonalSite) "Java Dev Journal"
+- [🔭 I’m currently working on](https://www.google.com](https://github.com/nxbeyxnd/PersonalSite)
+
 
 Stack which i use:
 
