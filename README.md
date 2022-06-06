@@ -1,18 +1,13 @@
 <h1 align="center">Hi there, I'm Daniil</h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<h3 align="center">🔭 I’m currently working on <a href="https://github.com/nxbeyxnd/PersonalSite"> personal site</a></h3>
 
-- [🔭 I’m currently working on] [(https://github.com/nxbeyxnd/PersonalSite)]
-
-
-Stack which i use:
+Used stack:
 
 - Java
 - Spring
 - Hibernate
 - PostgreSQL
-- Flyway migration
-- SOLID Principles
-- OOP
+- Flyway 
 
 <!--
 **nxbeyxnd/nxbeyxnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
