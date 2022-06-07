@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Daniil</h1>
+<h1 align="center">Hi there, I'm Alexey</h1>
 <h3 align="center">🔭 I’m currently working on <a href="https://github.com/nxbeyxnd/PersonalSite"> personal site</a></h3>
 
 Used stack:
