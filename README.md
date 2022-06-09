@@ -9,7 +9,7 @@
 </p>
 
 <p align='center'>
-  📫 How to reach me: <a href = "alexey.javadev.spb@gmail.com"/>
+  📫 How to reach me: <a href = "alexey.javadev.spb@gmail.com">alexey.javadev.spb@gmail.com</a>
 </p>
 
 Used stack:
