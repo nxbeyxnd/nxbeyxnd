@@ -8,6 +8,10 @@
   </a>
 </p>
 
+<p align='center'>
+  📫 How to reach me: <a href = "alexey.javadev.spb@gmail.com"/>
+</p>
+
 Used stack:
 
 - Java
