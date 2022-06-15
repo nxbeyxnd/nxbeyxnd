@@ -1,4 +1,4 @@
-# Hi, I'm Alexey 👋
+# Hi, I'm Alexey 👋 working from Russia, Saint-Petersburg
 
 <h3 align='center'>Java developer</h3>
 <h3 align='center'>🔭 I’m currently working on <a href="https://github.com/nxbeyxnd/PersonalSite"> personal site</a></h3>
