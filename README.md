@@ -6,8 +6,12 @@
   <a align='center' href="https://github-readme-stats.vercel.app/api?username=nxbeyxnd&show_icons=true&count_private=true">
     <img align='center' height=150 src="https://github-readme-stats.vercel.app/api?username=nxbeyxnd&show_icons=true&count_private=true"/>
   </a>
-  <img align='center' width=10% src="https://www.codewars.com/users/nxbeyxnd/badges/large"/>
-  
+</p>
+
+<p align='center'>
+  <a align='center' href="https://www.codewars.com/users/nxbeyxnd">
+    <img align='center' width=40% src="https://www.codewars.com/users/nxbeyxnd/badges/large"/>
+  </a>
 </p>
 
 <p align='center'>
