@@ -18,7 +18,7 @@
   📫 How to reach me: <a href = "mailto:alexey.javadev.spb@gmail.com">alexey.javadev.spb@gmail.com</a>
 </p>
 
-Used stack:
+⚡Stack⚡:
 
 - Java
 - Spring
