@@ -6,6 +6,8 @@
   <a align='center' href="https://github-readme-stats.vercel.app/api?username=nxbeyxnd&show_icons=true&count_private=true">
     <img align='center' height=150 src="https://github-readme-stats.vercel.app/api?username=nxbeyxnd&show_icons=true&count_private=true"/>
   </a>
+  <img align='center' height=150 src="https://www.codewars.com/users/nxbeyxnd/badges/large"/>
+  
 </p>
 
 <p align='center'>
