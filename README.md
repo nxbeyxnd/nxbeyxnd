@@ -16,6 +16,7 @@
 
 <p align='center'>
   📫 How to reach me: <a href = "mailto:alexey.javadev.spb@gmail.com">alexey.javadev.spb@gmail.com</a>
+  <p>Discord tag: nxbeyxnd#3536</p>
 </p>
 
 ⚡Stack⚡:
